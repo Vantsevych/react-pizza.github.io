@@ -6,5 +6,5 @@ import SortPopup from "./SortPopup";
 export { 
     Header,
     Categories,
-    SortPopup
+    SortPopup,
  }
